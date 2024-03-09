@@ -1,3 +1,6 @@
+# Archived Repo on March 9, 2024
+Please check out https://github.com/YumYummity/guilded-bot-template if you need help with `guilded.py`
+
 # EcoNuker Public
 EcoNuker's public repository, including code snippets and more!
 
